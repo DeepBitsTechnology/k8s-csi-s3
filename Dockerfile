@@ -1,4 +1,4 @@
-FROM ghcr.io/deepbitstechnology/geesefs:0.43.8-deepbits.4 AS geesefs
+FROM ghcr.io/deepbitstechnology/geesefs:0.43.8-deepbits.5 AS geesefs
 
 FROM golang:1.25.9-alpine as gobuild
 
