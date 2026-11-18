@@ -34,5 +34,5 @@ jobs:
         platforms: linux/amd64
         push: true
         tags: |
-          ghcr.io/deepbitstechnology/csi-s3-driver:0.43.7-deepbits.3
+          ghcr.io/deepbitstechnology/csi-s3-driver:0.43.7-deepbits.4
           ghcr.io/deepbitstechnology/csi-s3-driver:release
